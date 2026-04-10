@@ -11,7 +11,7 @@ import { Public_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: "Hello",
+  title: "Privet",
   description: "Elevate your daily ritual with Germi's unique, handcrafted ceramic cups and mugs.",
   openGraph: {
     "siteName": "Germi"
